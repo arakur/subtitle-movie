@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Speaker.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Synthesizer\Synthesizer.fsproj" />
+    <ProjectReference Include="..\Env\Env.fsproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/bYJSIWY7B6P2sphWuOzHoZXzyRdPaRiTsWiyAdXSpYtjdUwzN22D+MQDMORpUWLLdbv4ltZd5hGAjXOVsadA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\User\\fsharp\\Movie\\src\\App\\App.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.data\\6.2.0\\fsharp.data.6.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.data.csv.core\\6.2.0\\fsharp.data.csv.core.6.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.data.html.core\\6.2.0\\fsharp.data.html.core.6.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.data.http\\6.2.0\\fsharp.data.http.6.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.data.json.core\\6.2.0\\fsharp.data.json.core.6.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.data.runtime.utilities\\6.2.0\\fsharp.data.runtime.utilities.6.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.data.worldbank.core\\6.2.0\\fsharp.data.worldbank.core.6.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.data.xml.core\\6.2.0\\fsharp.data.xml.core.6.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.json\\0.4.1\\fsharp.json.0.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

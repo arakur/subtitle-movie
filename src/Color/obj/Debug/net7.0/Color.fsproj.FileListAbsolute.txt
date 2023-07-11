@@ -1,0 +1,13 @@
+c:\Users\User\fsharp\Movie\src\Color\bin\Debug\net7.0\Color.deps.json
+c:\Users\User\fsharp\Movie\src\Color\bin\Debug\net7.0\Color.dll
+c:\Users\User\fsharp\Movie\src\Color\bin\Debug\net7.0\Color.pdb
+c:\Users\User\fsharp\Movie\src\Color\bin\Debug\net7.0\Color.xml
+c:\Users\User\fsharp\Movie\src\Color\obj\Debug\net7.0\Color.fsproj.AssemblyReference.cache
+c:\Users\User\fsharp\Movie\src\Color\obj\Debug\net7.0\Color.AssemblyInfoInputs.cache
+c:\Users\User\fsharp\Movie\src\Color\obj\Debug\net7.0\Color.AssemblyInfo.fs
+c:\Users\User\fsharp\Movie\src\Color\obj\Debug\net7.0\Color.fsproj.CoreCompileInputs.cache
+c:\Users\User\fsharp\Movie\src\Color\obj\Debug\net7.0\Color.dll
+c:\Users\User\fsharp\Movie\src\Color\obj\Debug\net7.0\refint\Color.dll
+c:\Users\User\fsharp\Movie\src\Color\obj\Debug\net7.0\Color.xml
+c:\Users\User\fsharp\Movie\src\Color\obj\Debug\net7.0\Color.pdb
+c:\Users\User\fsharp\Movie\src\Color\obj\Debug\net7.0\ref\Color.dll

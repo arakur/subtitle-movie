@@ -1,0 +1,12 @@
+C:\Users\User\fsharp\Movie\src\VoicevoxCore\obj\Debug\net7.0\VoicevoxCore.csproj.AssemblyReference.cache
+C:\Users\User\fsharp\Movie\src\VoicevoxCore\obj\Debug\net7.0\VoicevoxCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\fsharp\Movie\src\VoicevoxCore\obj\Debug\net7.0\VoicevoxCore.AssemblyInfoInputs.cache
+C:\Users\User\fsharp\Movie\src\VoicevoxCore\obj\Debug\net7.0\VoicevoxCore.AssemblyInfo.cs
+C:\Users\User\fsharp\Movie\src\VoicevoxCore\obj\Debug\net7.0\VoicevoxCore.csproj.CoreCompileInputs.cache
+C:\Users\User\fsharp\Movie\src\VoicevoxCore\bin\Debug\net7.0\VoicevoxCore.deps.json
+C:\Users\User\fsharp\Movie\src\VoicevoxCore\bin\Debug\net7.0\VoicevoxCore.dll
+C:\Users\User\fsharp\Movie\src\VoicevoxCore\bin\Debug\net7.0\VoicevoxCore.pdb
+C:\Users\User\fsharp\Movie\src\VoicevoxCore\obj\Debug\net7.0\VoicevoxCore.dll
+C:\Users\User\fsharp\Movie\src\VoicevoxCore\obj\Debug\net7.0\refint\VoicevoxCore.dll
+C:\Users\User\fsharp\Movie\src\VoicevoxCore\obj\Debug\net7.0\VoicevoxCore.pdb
+C:\Users\User\fsharp\Movie\src\VoicevoxCore\obj\Debug\net7.0\ref\VoicevoxCore.dll

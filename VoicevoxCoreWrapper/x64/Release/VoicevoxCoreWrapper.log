@@ -1,0 +1,10 @@
+﻿  pch.cpp
+C:\Users\User\fsharp\Movie\VoicevoxCoreWrapper\voicevox_core\voicevox_core.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  dllmain.cpp
+  VoicevoxCoreWrapper.cpp
+     ライブラリ C:\Users\User\fsharp\Movie\VoicevoxCoreWrapper\x64\Release\VoicevoxCoreWrapper.lib とオブジェクト C:\Users\User\fsharp\Movie\VoicevoxCoreWrapper\x64\Release\VoicevoxCoreWrapper.exp を作成中
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 146 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  VoicevoxCoreWrapper.vcxproj -> C:\Users\User\fsharp\Movie\VoicevoxCoreWrapper\x64\Release\VoicevoxCoreWrapper.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hpRP0lRy+/cOAtGfkydLD9w1sVnL03fDOUjyb5Fw2YXcvnMFwKQNmN1VjOqbY8Q5LJvfkjRszWzcDMO4Ztpbew==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\User\\fsharp\\Movie\\src\\Measure\\Measure.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

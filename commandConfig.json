@@ -1,0 +1,5 @@
+{
+  "typst": "./typst/typst.exe",
+  "magick": "./ImageMagick/magick.exe",
+  "ffmpeg": "C:/ffmpeg-6.0/bin/ffmpeg.exe"
+}

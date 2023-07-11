@@ -1,0 +1,13 @@
+c:\Users\User\fsharp\Movie\src\Measure\bin\Debug\net7.0\Measure.deps.json
+c:\Users\User\fsharp\Movie\src\Measure\bin\Debug\net7.0\Measure.dll
+c:\Users\User\fsharp\Movie\src\Measure\bin\Debug\net7.0\Measure.pdb
+c:\Users\User\fsharp\Movie\src\Measure\bin\Debug\net7.0\Measure.xml
+c:\Users\User\fsharp\Movie\src\Measure\obj\Debug\net7.0\Measure.fsproj.AssemblyReference.cache
+c:\Users\User\fsharp\Movie\src\Measure\obj\Debug\net7.0\Measure.AssemblyInfoInputs.cache
+c:\Users\User\fsharp\Movie\src\Measure\obj\Debug\net7.0\Measure.AssemblyInfo.fs
+c:\Users\User\fsharp\Movie\src\Measure\obj\Debug\net7.0\Measure.fsproj.CoreCompileInputs.cache
+c:\Users\User\fsharp\Movie\src\Measure\obj\Debug\net7.0\Measure.dll
+c:\Users\User\fsharp\Movie\src\Measure\obj\Debug\net7.0\refint\Measure.dll
+c:\Users\User\fsharp\Movie\src\Measure\obj\Debug\net7.0\Measure.xml
+c:\Users\User\fsharp\Movie\src\Measure\obj\Debug\net7.0\Measure.pdb
+c:\Users\User\fsharp\Movie\src\Measure\obj\Debug\net7.0\ref\Measure.dll

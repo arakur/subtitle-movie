@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Path.fs" />
+    <Compile Include="Input.fs" />
+    <Compile Include="FilterNode.fs" />
+    <Compile Include="Filter.fs" />
+    <Compile Include="FilterComplex.fs" />
+    <Compile Include="Process.fs" />
+    <Compile Include="Codec.fs" />
+    <Compile Include="Bitrate.fs" />
+    <Compile Include="Command.fs" />
+    <Compile Include="Ffmpeg.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Command\Command.fsproj" />
+    <ProjectReference Include="..\Color\Color.fsproj" />
+  </ItemGroup>
+</Project>

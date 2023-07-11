@@ -1,0 +1,13 @@
+c:\Users\User\fsharp\Movie\src\Synthesizer\bin\Debug\net7.0\Synthesizer.deps.json
+c:\Users\User\fsharp\Movie\src\Synthesizer\bin\Debug\net7.0\Synthesizer.dll
+c:\Users\User\fsharp\Movie\src\Synthesizer\bin\Debug\net7.0\Synthesizer.pdb
+c:\Users\User\fsharp\Movie\src\Synthesizer\bin\Debug\net7.0\Synthesizer.xml
+c:\Users\User\fsharp\Movie\src\Synthesizer\obj\Debug\net7.0\Synthesizer.fsproj.AssemblyReference.cache
+c:\Users\User\fsharp\Movie\src\Synthesizer\obj\Debug\net7.0\Synthesizer.AssemblyInfoInputs.cache
+c:\Users\User\fsharp\Movie\src\Synthesizer\obj\Debug\net7.0\Synthesizer.AssemblyInfo.fs
+c:\Users\User\fsharp\Movie\src\Synthesizer\obj\Debug\net7.0\Synthesizer.fsproj.CoreCompileInputs.cache
+c:\Users\User\fsharp\Movie\src\Synthesizer\obj\Debug\net7.0\Synthesizer.dll
+c:\Users\User\fsharp\Movie\src\Synthesizer\obj\Debug\net7.0\refint\Synthesizer.dll
+c:\Users\User\fsharp\Movie\src\Synthesizer\obj\Debug\net7.0\Synthesizer.xml
+c:\Users\User\fsharp\Movie\src\Synthesizer\obj\Debug\net7.0\Synthesizer.pdb
+c:\Users\User\fsharp\Movie\src\Synthesizer\obj\Debug\net7.0\ref\Synthesizer.dll

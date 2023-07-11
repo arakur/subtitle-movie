@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Fsharp.Data" Version="6.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ffmpeg\Ffmpeg.fsproj" />
+    <ProjectReference Include="..\VoicevoxCore\VoicevoxCore.csproj" />
+    <ProjectReference Include="..\Voicevox\Voicevox.fsproj" />
+    <ProjectReference Include="..\Subtitle\Subtitle.fsproj" />
+    <ProjectReference Include="..\Speaker\Speaker.fsproj" />
+    <ProjectReference Include="..\Env\Env.fsproj" />
+    <ProjectReference Include="..\Synthesizer\Synthesizer.fsproj" />
+    <ProjectReference Include="..\Command\Command.fsproj" />
+    <ProjectReference Include="..\Frame\Frame.fsproj" />
+    <ProjectReference Include="..\Color\Color.fsproj" />
+    <ProjectReference Include="..\Measure\Measure.fsproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+c:\Users\User\fsharp\Movie\src\Command\bin\Debug\net7.0\Command.deps.json
+c:\Users\User\fsharp\Movie\src\Command\bin\Debug\net7.0\Command.dll
+c:\Users\User\fsharp\Movie\src\Command\bin\Debug\net7.0\Command.pdb
+c:\Users\User\fsharp\Movie\src\Command\bin\Debug\net7.0\Command.xml
+c:\Users\User\fsharp\Movie\src\Command\obj\Debug\net7.0\Command.fsproj.AssemblyReference.cache
+c:\Users\User\fsharp\Movie\src\Command\obj\Debug\net7.0\Command.AssemblyInfoInputs.cache
+c:\Users\User\fsharp\Movie\src\Command\obj\Debug\net7.0\Command.AssemblyInfo.fs
+c:\Users\User\fsharp\Movie\src\Command\obj\Debug\net7.0\Command.fsproj.CoreCompileInputs.cache
+c:\Users\User\fsharp\Movie\src\Command\obj\Debug\net7.0\Command.dll
+c:\Users\User\fsharp\Movie\src\Command\obj\Debug\net7.0\refint\Command.dll
+c:\Users\User\fsharp\Movie\src\Command\obj\Debug\net7.0\Command.xml
+c:\Users\User\fsharp\Movie\src\Command\obj\Debug\net7.0\Command.pdb
+c:\Users\User\fsharp\Movie\src\Command\obj\Debug\net7.0\ref\Command.dll
