@@ -1,1 +1,0 @@
-C:\Users\User\fsharp\Movie\VoicevoxCoreWrapper\x64\Release\VoicevoxCoreWrapper.dll
