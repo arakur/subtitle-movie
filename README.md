@@ -8,6 +8,7 @@
 2. [.NET](https://dotnet.microsoft.com/en-us/) 環境を整える(≥ 7.0.102)
 3. [FFmpeg](https://ffmpeg.org/)，[ImageMagick](https://imagemagick.org/index.php)，[Typst](https://github.com/typst/) をインストール
 4. `commandConfig.json` ファイルにて適切なパスを指定
+5. [Voicevox Core](https://github.com/VOICEVOX/voicevox_core) の Release を入手し，model フォルダを `VoicevoxCoreWrapper/bin` フォルダに移動
 
 ## 使い方
 
