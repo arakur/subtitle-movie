@@ -15,3 +15,8 @@
 ## 使い方
 
 `src/App/Program.fs` を編集し，`dotnet run` で実行
+
+## ライセンス
+
+ソースコードのライセンスは MIT ライセンスです．
+音声出力の利用に際しては[音声ライブラリの利用規約](./VoicevoxCoreWrapper/voicevox_core/README.txt)に準拠してください．
